@@ -1,5 +1,8 @@
 ## Olá! Eu sou o Antonio Alves 👋
 
+- 🔭 Atualmente estou trabalhando com Backend.
+- 🌱 Estudando ReactJS.
+
 <div>
   <a href="https://github.com/antoniojpsalves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniojpsalves&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -14,7 +17,8 @@
   <img align="center" alt="Syn-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Syn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-##
+  
+  ##
 
 <div>
   <a href = "mailto:antoniojpsalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
