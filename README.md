@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Antonio Alves 👋
 
 - 🔭 Atualmente estou trabalhando com Backend.
-- 🌱 Estudando Node | React | React Native <3.
+- 🌱 Estudando React <3.
 
 <div>
   <a href="https://github.com/antoniojpsalves">
